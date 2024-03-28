@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Lucas Montecino",
 	"description": "A singular and not special packaje json",
+	"keywords": [
+		"freecodecamp",
+		"developer",
+		"backend"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
